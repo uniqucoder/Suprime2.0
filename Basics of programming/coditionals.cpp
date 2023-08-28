@@ -16,16 +16,50 @@ int main()
     //     cout<<"You can not vote"<<endl;
     // }
 
-    int bronum;
-    cout<<"Enter bro num"<<endl;
-    cin>>bronum;
+    // int bronum;
+    // cout<<"Enter bro num"<<endl;
+    // cin>>bronum;
 
-    if(bronum == 0)
+    // if(bronum == 0)
+    // {
+    //     cout<<"baat ban jayegi";
+    // }
+    // else
+    // {
+    //     cout<<"baat ni banegi";
+    // }
+
+
+    // int n;
+    // cin>>n;
+
+    // if(n==0)
+    // {
+    //     cout<<"zero"<<endl;
+    // }
+    // else if( n< 0)
+    // {
+    //     cout<<"Negative";
+    // }
+    // else
+    // {
+    //     cout<<"Positive";
+    // }
+
+
+    for(int i=0; i<=10;i++)
     {
-        cout<<"baat ban jayegi";
+        cout<<"Chaitanya"<<endl;
     }
-    else
+    cout<<endl;
+
+    for(int i=1; i<=10; i++)
     {
-        cout<<"baat ni banegi";
+        cout<<19*i<<" ";
+    }
+
+    for(int i=2; i<=100; i=i+2)
+    {
+        cout<<i<<" ";
     }
 }
