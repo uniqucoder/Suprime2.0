@@ -47,19 +47,26 @@ int main()
     // }
 
 
-    for(int i=0; i<=10;i++)
-    {
-        cout<<"Chaitanya"<<endl;
-    }
-    cout<<endl;
+    // for(int i=0; i<=10;i++)
+    // {
+    //     cout<<"Chaitanya"<<endl;
+    // }
+    // cout<<endl;
 
-    for(int i=1; i<=10; i++)
-    {
-        cout<<19*i<<" ";
-    }
+    // for(int i=1; i<=10; i++)
+    // {
+    //     cout<<19*i<<" ";
+    // }
 
-    for(int i=2; i<=100; i=i+2)
+    // for(int i=2; i<=100; i=i+2)
+    // {
+    //     cout<<i<<" ";
+    // }
+
+    int n;
+    if(cout<<"Love Babbar")
     {
-        cout<<i<<" ";
+        cout<<"Love Babbar";
     }
 }
+
